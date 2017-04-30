@@ -1,7 +1,7 @@
 
-package getset;
+package Principal;
 
-public class GetSet {
+public class Vista {
 
    
     public static void main(String[] args) {
